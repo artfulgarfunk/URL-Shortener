@@ -1,7 +1,7 @@
 {
-  "name": "shortly",
+  "name": "Shortener",
   "version": "1.0.0",
-  "description": "a simple MERN stack URL shortener",
+  "description": "Simple MERN stack URL shortener",
   "main": "index.js",
   "scripts": {
     "compile": "babel src --presets react,es2015 --out-dir static",
