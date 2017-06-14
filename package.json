@@ -1,5 +1,5 @@
 {
-  "name": "Shortener",
+  "name": "shortener",
   "version": "1.0.0",
   "description": "Simple MERN stack URL shortener",
   "main": "index.js",
@@ -20,5 +20,13 @@
     "babel-cli": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "nodemon": "^1.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artfulgarfunk/URL-Shortener.git"
+  },
+  "bugs": {
+    "url": "https://github.com/artfulgarfunk/URL-Shortener/issues"
+  },
+  "homepage": "https://github.com/artfulgarfunk/URL-Shortener#readme"
 }
